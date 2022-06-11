@@ -1,7 +1,7 @@
 ---
 ShowBreadCrumbs: false
 author: Hugo Authors
-date: "2019-03-08"
+date: "2030-01-01"
 description: A brief guide to setup KaTeX
 math: true
 title: Math Typesetting

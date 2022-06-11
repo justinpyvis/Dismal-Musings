@@ -2,7 +2,7 @@
 ShowBreadCrumbs: false
 ShowToc: false
 author: Hugo Authors
-date: "2019-03-05"
+date: "2030-01-01"
 description: Guide to emoji usage in Hugo
 tags:
 - emoji
