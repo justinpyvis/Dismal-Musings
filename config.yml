@@ -26,12 +26,12 @@ languages:
           series: series
         menu:
             main:
-                - name: About
-                  url: about
-                  weight: 5
+#                - name: About
+#                  url: about
+#                  weight: 5
                 - name: Archive
                   url: archives
-                  weight: 10
+                  weight: 5
                 - name: Search
                   url: search/
                   weight: 10
@@ -50,7 +50,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Dreary, desolate and, indeed, quite abject and distressing."
+    description: "This is the personal blog of Dr Justin Pyvis. Everything I write here is free; it's a space to muse on various topics that interest me."
     author: Justin Pyvis
     # author: ["Me", "You"] # multiple authors
 
@@ -82,9 +82,13 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Welcome to Dismal Musings"
-        Content: >
-            A blog about economics. The name "dismal" comes from Thomas Carlyle (<a href="https://www.goodreads.com/quotes/1193389-economics-is-not-a-gay-science-it-is-a-dreary" target="_blank">1849</a>) who, due to the profession's obejction to slavery, criticised economics as being "...a dreary, desolate and, indeed, quite abject and distressing one; what we might call, by way of eminence, the dismal science".
+        Title: "Welcome! \U0001F44B"
+        Content:
+            This is the personal blog of <a href="https://twitter.com/JustinPyvis" target="_blank">Dr Justin Pyvis</a>. The name "dismal" is used positively, reflecting the economics profession's obejction to slavery, which led Thomas Carlyle (<a href="https://www.goodreads.com/quotes/1193389-economics-is-not-a-gay-science-it-is-a-dreary" target="_blank">1849</a>) to brand it "...a dreary, desolate and, indeed, quite abject and distressing one; what we might call, by way of eminence, the dismal science".\
+
+            &nbsp;\
+
+            Everything I write here is free; it's a space to muse on various topics that interest me. If you're after something published with a bit more regularity be sure to check out my newsletter, <a href="https://thecontext.au" target="_blank">The Context</a>.
 
     socialIcons:
 #        - name: github
