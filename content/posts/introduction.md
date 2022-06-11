@@ -9,7 +9,7 @@ tags:
 title: Introduction
 ---
 
-Hello and welcome to my blog! My name is Justin Pyvis and I've been blogging on and off since the late early 2000s. I'm an economist by training but I'm also somewhat of an "infovore", so I tend to opine on a wide range of topics (I have [a newsletter](https://thecontext.au) that curates thoughtful, well-reasoned articles each week -- do [check it out](https://thecontext.au)).
+Hello and welcome to my blog! My name is Justin Pyvis and I've been blogging on and off since the early 2000s. I'm an economist by training but I'm also somewhat of an "infovore", so I tend to opine on a wide range of topics (I have [a newsletter](https://thecontext.au) that curates thoughtful, well-reasoned articles each week -- do [check it out](https://thecontext.au)).
 
 Posts here will be sporadic; I have no fixed publishing schedule. The best way to get updates is by [adding the site's feed](https://dismalmusings.com/posts/index.xml) to your favourite reader, such as [Feedly](https://feedly.com/i/subscription/feed/https://dismalmusings.com/posts/index.xml) or Inoreader.
 
