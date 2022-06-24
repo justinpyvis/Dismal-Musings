@@ -2,6 +2,7 @@ baseURL: "https://dismalmusings.com"
 title: Dismal Musings
 paginate: 5
 theme: PaperMod
+timezone: Australia/Perth
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
