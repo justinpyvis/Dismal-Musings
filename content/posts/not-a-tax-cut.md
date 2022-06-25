@@ -19,7 +19,7 @@ When is a tax cut not really a tax cut? When it's due to a [bracket change](http
 >
 > The cuts are on track to cost the budget $37 billion a year by the early 2030s, according to costings by the Parliamentary Budget Office that the Greens released during the election.
 
-To be clear, "tax cuts" such as these do not "cost" the government anything. It's also not a "handout" to billionaires. It's simply a reindexing to allow people to claw back what's known as "bracket creep", where people pay more in tax over time because the government does not index its income tax brackets to inflation. The last time Australia changed its top tax bracket was in 2008-09 – thirteen years ago – since which the purchasing power of the Australian dollar has declined by around 35%.
+To be clear, "tax cuts" such as these do not "cost" the government anything. It's also not a "handout" to billionaires. It's simply a reindexing to allow people to claw back what's known as "bracket creep", where people pay more in tax over time because the government does not index its income tax brackets to inflation. The last time Australia changed its top tax bracket was in 2008-09 – thirteen years ago. Since then, the purchasing power of the Australian dollar has declined by around 35%.
 
 Put into the context of taxation, a person who earned $200,000 back in 2008-09 would today be earning $267,325, assuming their salary had kept up with inflation. They currently pay an effective tax rate of 34.9%, up from 33.5% in 2008-09. Under the proposed changes their effective tax rate would fall to 31.0%, although given [current inflation](https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-21.html) it would only take three years before it's right back to where it was in 2008-09!
 
