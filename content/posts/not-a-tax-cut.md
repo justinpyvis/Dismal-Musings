@@ -23,7 +23,7 @@ To be clear, "tax cuts" such as these do not "cost" the government anything. It'
 
 Put into the context of taxation, a person who earned $200,000 back in 2008-09 would today be earning $267,325, assuming their salary had kept up with inflation. They would currently pay an effective tax rate of 34.0%, up from 30.3% in 2008-09. Under the proposed "tax cuts", their effective tax rate would fall back down to 30.6%.
 
-The math is similar for someone on $80,000 in 2008-09, who would have had an effective tax rate of 21.4% back then. They would now earn about $107,000 (inflation-adjusted), meaning their effective rate has jumped up to 25.3%. The proposed changes would drop that rate to 17.5% (an actual tax cut!), although given [current inflation](https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-21.html) it would only be five years before it was back to where it was in 2008-09.
+The math is similar for someone on $80,000 in 2008-09, who back then would have had an effective tax rate of 22.5%. They would now earn about $107,000 (inflation-adjusted), meaning their effective rate has jumped up to 25.3%. The proposed changes would drop that rate to 17.5% (an actual tax cut!), although given [current inflation](https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-21.html) it would only be five years before it was back to where it was in 2008-09.
 
 In other words, under these changes a high-income individual (>$200,000 income in 2008-09) would still be taxed more than they were in 2008-09, while someone who was on $80k in 2008-09 will be better off, but only for a few years.
 
