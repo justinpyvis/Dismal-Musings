@@ -23,4 +23,8 @@ To be clear, "tax cuts" such as these do not "cost" the government anything. It'
 
 Put into the context of taxation, a person who earned $200,000 back in 2008-09 would today be earning $267,325, assuming their salary had kept up with inflation. They would currently pay an effective tax rate of 34.0%, up from 30.3% in 2008-09. Under the proposed "tax cuts", their effective tax rate would fall back down to 30.6%.
 
-In other words, they would still be worse off than they were in 2008-09 and it's unlikely that we'll see another reindexing anytime soon, so bracket creep (the RBA [expects](https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-21.html) 7% annual inflation by December) will very quickly drive even more of their income into the top 45% bracket, raising their effective tax rate back up to 34% in no time (just four short years at a 7% annual rate of inflation).
+The math is similar for someone on $80,000 in 2008-09, who would have had an effective tax rate of 21.4% back then. They would now earn about $107,000 (inflation-adjusted), meaning their effective rate has jumped up to 25.3%. The proposed changes would drop that rate to 17.5% (an actual tax cut!), although given [current inflation](https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-21.html) it would only be five years before it was back to where it was in 2008-09.
+
+In other words, under these changes a high-income individual (>$200,000 income in 2008-09) would still be taxed more than they were in 2008-09, while someone who was on $80k in 2008-09 will be better off, but only for a few years.
+
+If Bandt believes taxes should be higher, he should make the case for higher taxes. But throwing support behind taxation by stealth while claiming he's opposing tax cuts for "billionaires" is just pure deception.
